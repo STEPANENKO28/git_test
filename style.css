@@ -7,7 +7,7 @@ html, body {
 .wrapper {
     display: flex;
     flex-direction: column;
-    background: navy;
+    background: pink;
     padding: 20px;
 }
 
